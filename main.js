@@ -25,7 +25,7 @@ const contador = () => {
         if (con > 15) {
             alert.classList.remove('hidden');
         }
-    }, 300)
+    }, 400)
 }
 
 
